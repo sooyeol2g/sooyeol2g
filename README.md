@@ -4,37 +4,41 @@
 
 </div>
 
-## 소개
+<br/>
 
 고등학교에 재학 중이며, 개인 서비스 몇 개를 직접 만들고 운영하고 있습니다.
 Next.js와 Supabase로 만들고 Vercel로 배포해서 실제로 사용하고 있습니다.
 
-## 운영 사이트
+<br/>
 
-| 사이트 | 설명 |
-| :-- | :-- |
-| [sooyeol2g.com](https://sooyeol2g.com) | 메인 페이지 |
-| [drive.sooyeol2g.com](https://drive.sooyeol2g.com) | 파일 뷰어 |
-| [transfer.sooyeol2g.com](https://transfer.sooyeol2g.com) | 기기 간 파일 전송 |
-| [archive.sooyeol2g.com](https://archive.sooyeol2g.com) | 활동 기록 |
-| [subs.sooyeol2g.com](https://subs.sooyeol2g.com) | 구독 관리 |
-| [lab.sooyeol2g.com](https://lab.sooyeol2g.com) | 과제연구 관리 |
-| [bus.sooyeol2g.com](https://bus.sooyeol2g.com) | 출발 전 인원 체크 |
-| [bypass.sooyeol2g.com](https://bypass.sooyeol2g.com) | 도메인 접속 안 될 때 |
+### 운영 사이트
 
-## 기술 스택
+| 사이트 | 설명 | 사이트 | 설명 |
+| :-- | :-- | :-- | :-- |
+| [sooyeol2g.com](https://sooyeol2g.com) | 메인 페이지 | [subs.sooyeol2g.com](https://subs.sooyeol2g.com) | 구독 관리 |
+| [drive.sooyeol2g.com](https://drive.sooyeol2g.com) | 파일 뷰어 | [lab.sooyeol2g.com](https://lab.sooyeol2g.com) | 과제연구 관리 |
+| [transfer.sooyeol2g.com](https://transfer.sooyeol2g.com) | 기기 간 파일 전송 | [bus.sooyeol2g.com](https://bus.sooyeol2g.com) | 출발 전 인원 체크 |
+| [archive.sooyeol2g.com](https://archive.sooyeol2g.com) | 활동 기록 | [bypass.sooyeol2g.com](https://bypass.sooyeol2g.com) | 도메인 접속 안 될 때 |
+
+<br/>
+
+### 기술 스택
 
 TypeScript · Next.js · React · Tailwind CSS · Supabase · Vercel
 
-## 지금 듣는 곡
+<br/>
+
+### 지금 듣는 곡
 
 <div align="center">
 
-[![Spotify](https://novatorem-chi-cyan.vercel.app/api/orchestrator?background_type=blur_dark&border_color=2a2a32)](https://open.spotify.com/user/sooyeol2g)
+<a href="https://open.spotify.com/user/sooyeol2g"><img src="https://novatorem-chi-cyan.vercel.app/api/orchestrator?background_type=blur_dark&border_color=2a2a32" alt="Spotify" width="540"/></a>
 
 </div>
 
-## 컨트리뷰션
+<br/>
+
+### 컨트리뷰션
 
 <div align="center">
 
@@ -44,6 +48,8 @@ TypeScript · Next.js · React · Tailwind CSS · Supabase · Vercel
 </picture>
 
 </div>
+
+<br/>
 
 <div align="center">
 
