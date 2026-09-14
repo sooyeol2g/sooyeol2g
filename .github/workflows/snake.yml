@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: sooyeol2g
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#0a0a0d&color_dots=#ebebef,#c4c3cc,#8f8d9b,#58575f,#0a0a0d
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#f3f2f6&color_dots=#131318,#2a2a32,#58575f,#9c9aa6,#f3f2f6
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Commit generated SVGs
         run: |
