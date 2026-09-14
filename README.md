@@ -16,10 +16,12 @@ Next.js와 Supabase로 만들고 Vercel로 배포해서 실제로 사용하고 �
 
 <br/>
 
+<h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-sites-dark.svg" />
   <img src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-sites-light.svg" alt="운영 사이트" width="100%" />
 </picture>
+</h3>
 
 | 사이트 | 설명 | 사이트 | 설명 |
 | :-- | :-- | :-- | :-- |
@@ -30,19 +32,23 @@ Next.js와 Supabase로 만들고 Vercel로 배포해서 실제로 사용하고 �
 
 <br/>
 
+<h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-stack-dark.svg" />
   <img src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-stack-light.svg" alt="기술 스택" width="100%" />
 </picture>
+</h3>
 
 TypeScript · Next.js · React · Tailwind CSS · Supabase · Vercel
 
 <br/>
 
+<h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-now-playing-dark.svg" />
   <img src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-now-playing-light.svg" alt="지금 듣는 곡" width="100%" />
 </picture>
+</h3>
 
 <div align="center">
 
@@ -52,10 +58,12 @@ TypeScript · Next.js · React · Tailwind CSS · Supabase · Vercel
 
 <br/>
 
+<h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-contributions-dark.svg" />
   <img src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-contributions-light.svg" alt="컨트리뷰션" width="100%" />
 </picture>
+</h3>
 
 <div align="center">
 
