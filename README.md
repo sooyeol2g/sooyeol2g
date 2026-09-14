@@ -37,6 +37,14 @@ Next.js와 Supabase로 사이트를 만들고, Vercel로 배포해서 실제로 
 
 </div>
 
+## 🎧 지금 듣는 곡
+
+<div align="center">
+
+[![Spotify](https://novatorem-chi-cyan.vercel.app/api/orchestrator?background_type=blur_dark&border_color=8A2BE2)](https://open.spotify.com/user/sooyeol2g)
+
+</div>
+
 ## 🐍 컨트리뷰션
 
 <div align="center">
