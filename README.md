@@ -39,10 +39,12 @@ Next.js와 Supabase로 사이트를 만들고, Vercel로 배포해서 실제로 
 
 ## 📊 GitHub 통계
 
+이 저장소의 GitHub Actions(`.github/workflows/metrics.yml`)가 매일 자동으로 생성하는
+통계 SVG입니다. 외부 공용 서버에 의존하지 않아서 안정적으로 표시됩니다.
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sooyeol2g&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooyeol2g&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+![Metrics](https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/github-metrics.svg)
 
 </div>
 
