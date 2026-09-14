@@ -37,6 +37,17 @@ Next.js와 Supabase로 사이트를 만들고, Vercel로 배포해서 실제로 
 
 </div>
 
+## 🐍 컨트리뷰션
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="컨트리뷰션 스네이크" src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/dist/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
 ## 📊 GitHub 통계
 
 이 저장소의 GitHub Actions(`.github/workflows/metrics.yml`)가 매일 자동으로 생성하는
