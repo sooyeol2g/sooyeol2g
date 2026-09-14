@@ -39,7 +39,10 @@ Next.js와 Supabase로 만들고 Vercel로 배포해서 실제로 사용하고 �
 </picture>
 </h3>
 
-TypeScript · Next.js · React · Tailwind CSS · Supabase · Vercel
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/stack-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/stack-light.svg" alt="TypeScript · Next.js · React · Tailwind CSS · Supabase · Vercel" width="100%" />
+</picture>
 
 <br/>
 
