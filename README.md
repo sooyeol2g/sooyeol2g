@@ -1,51 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20sooyeol2g%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=High+school+student+developer;Running+sooyeol2g.com;Next.js+%2B+Supabase" alt="Typing SVG" />
-</a>
+<a href="https://sooyeol2g.com"><img src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/header.svg" alt="SY Lee — 고등학생, 개인 서비스를 만들고 운영합니다" width="100%"/></a>
 
 </div>
 
-## 👋 소개
+## 소개
 
 고등학교에 재학 중이며, 개인 서비스 몇 개를 직접 만들고 운영하고 있습니다.
-Next.js와 Supabase로 사이트를 만들고, Vercel로 배포해서 실제로 사용하고 있습니다.
+Next.js와 Supabase로 만들고 Vercel로 배포해서 실제로 사용하고 있습니다.
 
-## 🌐 운영 사이트
+## 운영 사이트
 
-<div align="center">
+| 사이트 | 설명 |
+| :-- | :-- |
+| [sooyeol2g.com](https://sooyeol2g.com) | 메인 페이지 |
+| [drive.sooyeol2g.com](https://drive.sooyeol2g.com) | 파일 뷰어 |
+| [transfer.sooyeol2g.com](https://transfer.sooyeol2g.com) | 기기 간 파일 전송 |
+| [archive.sooyeol2g.com](https://archive.sooyeol2g.com) | 활동 기록 |
+| [subs.sooyeol2g.com](https://subs.sooyeol2g.com) | 구독 관리 |
+| [lab.sooyeol2g.com](https://lab.sooyeol2g.com) | 과제연구 관리 |
+| [bus.sooyeol2g.com](https://bus.sooyeol2g.com) | 출발 전 인원 체크 |
+| [bypass.sooyeol2g.com](https://bypass.sooyeol2g.com) | 도메인 접속 안 될 때 |
 
-[![sooyeol2g.com](https://img.shields.io/badge/sooyeol2g.com-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://sooyeol2g.com)
-[![Drive](https://img.shields.io/badge/Drive-4ECDC4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.sooyeol2g.com)
-[![Transfer](https://img.shields.io/badge/Transfer-FFD93D?style=for-the-badge&logo=airtransat&logoColor=white)](https://transfer.sooyeol2g.com)
-[![Archive](https://img.shields.io/badge/Archive-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://archive.sooyeol2g.com)
+## 기술 스택
 
-</div>
+TypeScript · Next.js · React · Tailwind CSS · Supabase · Vercel
 
-## 🛠️ 기술 스택
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
-## 🎧 지금 듣는 곡
+## 지금 듣는 곡
 
 <div align="center">
 
-[![Spotify](https://novatorem-chi-cyan.vercel.app/api/orchestrator?background_type=blur_dark&border_color=8A2BE2)](https://open.spotify.com/user/sooyeol2g)
+[![Spotify](https://novatorem-chi-cyan.vercel.app/api/orchestrator?background_type=blur_dark&border_color=2a2a32)](https://open.spotify.com/user/sooyeol2g)
 
 </div>
 
-## 🐍 컨트리뷰션
+## 컨트리뷰션
 
 <div align="center">
 
@@ -56,21 +45,8 @@ Next.js와 Supabase로 사이트를 만들고, Vercel로 배포해서 실제로 
 
 </div>
 
-## 📊 GitHub 통계
-
-이 저장소의 GitHub Actions(`.github/workflows/metrics.yml`)가 매일 자동으로 생성하는
-통계 SVG입니다. 외부 공용 서버에 의존하지 않아서 안정적으로 표시됩니다.
-
 <div align="center">
 
-![Metrics](https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/github-metrics.svg)
+<sub><a href="https://sooyeol2g.com">sooyeol2g.com</a> · <a href="mailto:sy@sooyeol2g.com">sy@sooyeol2g.com</a></sub>
 
 </div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sooyeol2g&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
