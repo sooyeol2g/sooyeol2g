@@ -28,12 +28,3 @@ jobs:
           plugin_achievements_threshold: C
           plugin_repositories: yes
           plugin_repositories_featured: sooyeol2g/sy-s-web-main, sooyeol2g/sy-s-web-admin
-
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics-isocalendar.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          config_timezone: Asia/Seoul
-          template: isocalendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
