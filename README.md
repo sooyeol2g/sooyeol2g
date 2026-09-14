@@ -1,6 +1,11 @@
-<div align="center">
+<div align="left">
 
-<a href="https://sooyeol2g.com"><img src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/header.svg" alt="SY Lee — 고등학생, 개인 서비스를 만들고 운영합니다" width="100%"/></a>
+<a href="https://sooyeol2g.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/header-dark.svg" />
+    <img src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/header-light.svg" alt="SY Lee — 고등학생, 개인 서비스를 만들고 운영합니다" width="100%" />
+  </picture>
+</a>
 
 </div>
 
