@@ -3,15 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20sooyeol2g%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=고등학생+개발자;sooyeol2g.com+운영+중;Next.js+%2B+Supabase+즐겨+씀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=High+school+student+developer;Running+sooyeol2g.com;Next.js+%2B+Supabase" alt="Typing SVG" />
 </a>
 
 </div>
 
 ## 👋 소개
 
-고등학교에 재학 중이면서 개인 서비스 몇 개를 직접 만들고 운영하고 있는 학생 개발자야.
-Next.js와 Supabase로 사이트를 만들고, Vercel로 배포해서 실제로 쓰고 있어.
+고등학교에 재학 중이며, 개인 서비스 몇 개를 직접 만들고 운영하고 있습니다.
+Next.js와 Supabase로 사이트를 만들고, Vercel로 배포해서 실제로 사용하고 있습니다.
 
 ## 🌐 운영 사이트
 
@@ -41,7 +41,7 @@ Next.js와 Supabase로 사이트를 만들고, Vercel로 배포해서 실제로 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sooyeol2g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sooyeol2g&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooyeol2g&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
