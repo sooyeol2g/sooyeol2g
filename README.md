@@ -16,7 +16,12 @@ Next.js와 Supabase로 만들고 Vercel로 배포해서 실제로 사용하고 �
 
 <br/>
 
-### 운영 사이트
+<h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-sites-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-sites-light.svg" alt="운영 사이트" width="100%" />
+</picture>
+</h3>
 
 | 사이트 | 설명 | 사이트 | 설명 |
 | :-- | :-- | :-- | :-- |
@@ -27,13 +32,23 @@ Next.js와 Supabase로 만들고 Vercel로 배포해서 실제로 사용하고 �
 
 <br/>
 
-### 기술 스택
+<h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-stack-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-stack-light.svg" alt="기술 스택" width="100%" />
+</picture>
+</h3>
 
 TypeScript · Next.js · React · Tailwind CSS · Supabase · Vercel
 
 <br/>
 
-### 지금 듣는 곡
+<h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-now-playing-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-now-playing-light.svg" alt="지금 듣는 곡" width="100%" />
+</picture>
+</h3>
 
 <div align="center">
 
@@ -43,13 +58,18 @@ TypeScript · Next.js · React · Tailwind CSS · Supabase · Vercel
 
 <br/>
 
-### 컨트리뷰션
+<h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-contributions-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/assets/label-contributions-light.svg" alt="컨트리뷰션" width="100%" />
+</picture>
+</h3>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/dist/github-contribution-grid-snake-dark.svg" />
-  <img alt="컨트리뷰션 스네이크" src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/dist/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/dist/github-contribution-grid-snake-dark.svg?v=2" />
+  <img alt="컨트리뷰션 스네이크" src="https://raw.githubusercontent.com/sooyeol2g/sooyeol2g/main/dist/github-contribution-grid-snake.svg?v=2" width="100%" />
 </picture>
 
 </div>
